@@ -22,7 +22,7 @@
 ## Requisits / Especificacions
 
   * Alimentació; 12V, regulada 5V
-  * Microcontrolador PIC18xxxxxxxxx
+  * Microcontrolador PIC32MX254F128B
   * ...
 
 -----------
