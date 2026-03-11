@@ -1,7 +1,7 @@
-# Projecte XXXXXXXXXXXXX
+# Projecte Combustible
 
->**Autors:** 
->**Versió: **
+>**Autors:** David Puges & Victor Donet
+>**Versió: ** v.1.0.0 11/03/2026
 
 ----------
 
