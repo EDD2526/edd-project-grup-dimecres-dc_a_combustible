@@ -1,4 +1,4 @@
-(kicad_sch
+	(kicad_sch
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
@@ -6,49 +6,7 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
-		(at 25.4 26.67)
-		(size 68.58 36.83)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "4c801c5d-4025-4c24-8da5-12ec47840bef")
-		(property "Sheetname" "Part analogica"
-			(at 25.4 25.9584 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "analog.kicad_sch"
-			(at 25.4 64.0846 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "Combustible_projecte"
-				(path "/c989196d-f442-462e-ad13-2ff17993bc1b"
-					(page "3")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 129.54 34.29)
+		(at 38.1 30.48)
 		(size 48.26 30.48)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -64,7 +22,7 @@
 		)
 		(uuid "73a8a135-7ac0-4af3-83b0-52460225a0ec")
 		(property "Sheetname" "Micro"
-			(at 129.54 33.5784 0)
+			(at 38.1 29.7684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -73,7 +31,7 @@
 			)
 		)
 		(property "Sheetfile" "Micro.kicad_sch"
-			(at 129.54 65.3546 0)
+			(at 38.1 61.5446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
