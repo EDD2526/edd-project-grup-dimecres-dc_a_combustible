@@ -1504,7 +1504,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "20d7f916-b895-495c-af56-3475489ef1fe")
-		(property "Reference" "C1"
+		(property "Reference" "C3"
 			(at 78.74 55.2449 0)
 			(effects
 				(font
@@ -1562,9 +1562,9 @@
 					(unit 1)
 				)
 			)
-			(project ""
-				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/4c801c5d-4025-4c24-8da5-12ec47840bef"
-					(reference "C1")
+			(project "analog"
+				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -1580,7 +1580,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2748f7ef-2a5f-4724-b6c6-7304944e8100")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR0102"
 			(at 149.86 72.39 0)
 			(effects
 				(font
@@ -1634,9 +1634,9 @@
 					(unit 1)
 				)
 			)
-			(project "Combustible_projecte"
-				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/4c801c5d-4025-4c24-8da5-12ec47840bef"
-					(reference "#PWR04")
+			(project "analog"
+				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
+					(reference "#PWR0102")
 					(unit 1)
 				)
 			)
@@ -1652,7 +1652,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2aae7f1b-7a67-481d-a0dc-9791bae07e05")
-		(property "Reference" "C?"
+		(property "Reference" "C1"
 			(at 121.92 98.4249 0)
 			(effects
 				(font
@@ -1710,9 +1710,9 @@
 					(unit 1)
 				)
 			)
-			(project "Combustible_projecte"
-				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/4c801c5d-4025-4c24-8da5-12ec47840bef"
-					(reference "C?")
+			(project "analog"
+				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -1728,7 +1728,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2e474eab-0816-480e-8397-e7bae1f3825c")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR01"
 			(at 99.06 111.76 0)
 			(effects
 				(font
@@ -1782,9 +1782,9 @@
 					(unit 1)
 				)
 			)
-			(project "Combustible_projecte"
-				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/4c801c5d-4025-4c24-8da5-12ec47840bef"
-					(reference "#PWR?")
+			(project "analog"
+				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -1800,7 +1800,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2ec0cf0d-6151-4156-9226-0c87b0e174e8")
-		(property "Reference" "C?"
+		(property "Reference" "C2"
 			(at 80.01 98.4249 0)
 			(effects
 				(font
@@ -1858,9 +1858,9 @@
 					(unit 1)
 				)
 			)
-			(project "Combustible_projecte"
-				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/4c801c5d-4025-4c24-8da5-12ec47840bef"
-					(reference "C?")
+			(project "analog"
+				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -1876,7 +1876,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3d0a7515-8161-442d-a3b1-4c3980e3b04a")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR0101"
 			(at 124.46 71.12 0)
 			(effects
 				(font
@@ -1930,9 +1930,9 @@
 					(unit 1)
 				)
 			)
-			(project "Combustible_projecte"
-				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/4c801c5d-4025-4c24-8da5-12ec47840bef"
-					(reference "#PWR03")
+			(project "analog"
+				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
+					(reference "#PWR0101")
 					(unit 1)
 				)
 			)
@@ -2006,8 +2006,8 @@
 					(unit 1)
 				)
 			)
-			(project ""
-				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/4c801c5d-4025-4c24-8da5-12ec47840bef"
+			(project "analog"
+				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
 					(reference "D1")
 					(unit 1)
 				)
@@ -2024,7 +2024,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "67ef6b85-2634-41af-b9db-1245ba248c79")
-		(property "Reference" "U?"
+		(property "Reference" "U2"
 			(at 101.6 41.91 0)
 			(effects
 				(font
@@ -2091,9 +2091,9 @@
 					(unit 1)
 				)
 			)
-			(project "Combustible_projecte"
-				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/4c801c5d-4025-4c24-8da5-12ec47840bef"
-					(reference "U?")
+			(project ""
+				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -2109,7 +2109,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "81788929-0524-429a-8dd2-3efa3311412f")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR0103"
 			(at 74.93 68.58 0)
 			(effects
 				(font
@@ -2163,9 +2163,9 @@
 					(unit 1)
 				)
 			)
-			(project "Combustible_projecte"
-				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/4c801c5d-4025-4c24-8da5-12ec47840bef"
-					(reference "#PWR05")
+			(project "analog"
+				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
+					(reference "#PWR0103")
 					(unit 1)
 				)
 			)
@@ -2181,7 +2181,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8bc8f53e-a09e-45f5-a041-70a8fb22a363")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR0104"
 			(at 86.36 68.58 0)
 			(effects
 				(font
@@ -2235,9 +2235,9 @@
 					(unit 1)
 				)
 			)
-			(project ""
-				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/4c801c5d-4025-4c24-8da5-12ec47840bef"
-					(reference "#PWR02")
+			(project "analog"
+				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
+					(reference "#PWR0104")
 					(unit 1)
 				)
 			)
@@ -2253,7 +2253,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "956823a0-10ed-4e1b-a404-f74be63ec3b3")
-		(property "Reference" "C2"
+		(property "Reference" "C4"
 			(at 153.67 59.0549 0)
 			(effects
 				(font
@@ -2311,9 +2311,9 @@
 					(unit 1)
 				)
 			)
-			(project "Combustible_projecte"
-				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/4c801c5d-4025-4c24-8da5-12ec47840bef"
-					(reference "C2")
+			(project "analog"
+				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -2329,7 +2329,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "adee4011-dbc6-44fd-b11b-c500fc76d078")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR02"
 			(at 76.2 111.76 0)
 			(effects
 				(font
@@ -2383,9 +2383,9 @@
 					(unit 1)
 				)
 			)
-			(project "Combustible_projecte"
-				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/4c801c5d-4025-4c24-8da5-12ec47840bef"
-					(reference "#PWR?")
+			(project "analog"
+				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -2401,7 +2401,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cc7451e6-76f6-47c1-9666-7aadc794f594")
-		(property "Reference" "U?"
+		(property "Reference" "U1"
 			(at 99.06 88.9 0)
 			(effects
 				(font
@@ -2460,9 +2460,9 @@
 					(unit 1)
 				)
 			)
-			(project "Combustible_projecte"
-				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/4c801c5d-4025-4c24-8da5-12ec47840bef"
-					(reference "U?")
+			(project ""
+				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
+					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -2478,7 +2478,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d29fcbaa-708d-45db-88da-dd5158fa8836")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR03"
 			(at 118.11 113.03 0)
 			(effects
 				(font
@@ -2532,9 +2532,9 @@
 					(unit 1)
 				)
 			)
-			(project "Combustible_projecte"
-				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/4c801c5d-4025-4c24-8da5-12ec47840bef"
-					(reference "#PWR?")
+			(project "analog"
+				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -2606,8 +2606,8 @@
 					(unit 1)
 				)
 			)
-			(project ""
-				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/4c801c5d-4025-4c24-8da5-12ec47840bef"
+			(project "analog"
+				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
 					(reference "J1")
 					(unit 1)
 				)
@@ -2624,7 +2624,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dcc9f7a7-212c-4113-b762-1f44ca9d9626")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR0105"
 			(at 31.75 63.5 0)
 			(effects
 				(font
@@ -2678,9 +2678,9 @@
 					(unit 1)
 				)
 			)
-			(project ""
-				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/4c801c5d-4025-4c24-8da5-12ec47840bef"
-					(reference "#PWR01")
+			(project "analog"
+				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
+					(reference "#PWR0105")
 					(unit 1)
 				)
 			)
@@ -2751,18 +2751,12 @@
 					(unit 1)
 				)
 			)
-			(project ""
-				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/4c801c5d-4025-4c24-8da5-12ec47840bef"
+			(project "analog"
+				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
 					(reference "L1")
 					(unit 1)
 				)
 			)
 		)
 	)
-	(sheet_instances
-		(path "/"
-			(page "1")
-		)
-	)
-	(embedded_fonts no)
 )

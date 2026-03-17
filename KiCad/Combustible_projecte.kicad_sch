@@ -1,4 +1,4 @@
-	(kicad_sch
+(kicad_sch
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
@@ -53,6 +53,48 @@
 			(project "Combustible_projecte"
 				(path "/c989196d-f442-462e-ad13-2ff17993bc1b"
 					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 31.75 82.55)
+		(size 58.42 33.02)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9cc53e55-b115-43a5-9a22-06f8c68fe0c0")
+		(property "Sheetname" "Part Analogica"
+			(at 31.75 81.8384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "analog.kicad_sch"
+			(at 31.75 116.1546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Combustible_projecte"
+				(path "/c989196d-f442-462e-ad13-2ff17993bc1b"
+					(page "4")
 				)
 			)
 		)
