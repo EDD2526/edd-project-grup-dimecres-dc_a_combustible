@@ -5,6 +5,16 @@
 	(uuid "c989196d-f442-462e-ad13-2ff17993bc1b")
 	(paper "A4")
 	(lib_symbols)
+	(text "Autors:\nVictor Donet Sogorb\nDavid Pugés Rovira"
+		(exclude_from_sim no)
+		(at 191.008 171.45 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "4a5767d5-46e3-4330-8333-ac2d8f7c009c")
+	)
 	(sheet
 		(at 25.4 26.67)
 		(size 68.58 36.83)
@@ -85,6 +95,48 @@
 			(project "Combustible_projecte"
 				(path "/c989196d-f442-462e-ad13-2ff17993bc1b"
 					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 187.96 83.82)
+		(size 72.39 41.91)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "cd1fe3cc-4e6c-43d9-9b7b-78d928da7f48")
+		(property "Sheetname" "Potencia"
+			(at 187.96 83.1084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "potencia.kicad_sch"
+			(at 187.96 126.3146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Combustible_projecte"
+				(path "/c989196d-f442-462e-ad13-2ff17993bc1b"
+					(page "4")
 				)
 			)
 		)
