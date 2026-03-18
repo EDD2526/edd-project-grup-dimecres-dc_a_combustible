@@ -1760,7 +1760,7 @@
 		)
 		(uuid "dba8361c-dfa2-4483-bb73-78b7ba3b76d2")
 	)
-	(global_label "OUTBUCK"
+	(global_label "VBAT"
 		(shape input)
 		(at 50.8 54.61 180)
 		(fields_autoplaced yes)
@@ -1772,7 +1772,7 @@
 		)
 		(uuid "0e040c69-7166-4e69-8fc9-00606bbb2492")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 39.0457 54.61 0)
+			(at 43.4 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1826,7 +1826,7 @@
 			)
 		)
 	)
-	(global_label "OUTBUCK"
+	(global_label "VBAT"
 		(shape input)
 		(at 156.21 54.61 180)
 		(fields_autoplaced yes)
@@ -1838,7 +1838,7 @@
 		)
 		(uuid "8bb3604b-f680-4e0d-8f8b-edbee2da66a5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 144.4557 54.61 0)
+			(at 148.81 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2181,7 +2181,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "300"
+		(property "Value" "1k"
 			(at 61.976 62.23 0)
 			(effects
 				(font
@@ -2672,7 +2672,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "300"
+		(property "Value" "1k"
 			(at 167.386 62.23 0)
 			(effects
 				(font
@@ -2810,7 +2810,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Fujitsu_FTR-LYAA005x"
+		(property "Value" "Fujitsu_FTR-LYAA012x"
 			(at 208.026 66.294 0)
 			(effects
 				(font
@@ -3224,7 +3224,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Fujitsu_FTR-LYAA005x"
+		(property "Value" "Fujitsu_FTR-LYAA012x"
 			(at 102.616 66.294 0)
 			(effects
 				(font

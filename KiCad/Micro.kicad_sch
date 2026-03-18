@@ -3395,7 +3395,7 @@
 		)
 		(uuid "38df3d03-bfb9-455f-a431-16338614a15b")
 	)
-	(text "MCP4725\n - Vdd = 3.3 V\n        - Idd = 400 micro A"
+	(text "MCP4725\n - Vdd = 3.3 V\n - I = 25 mA"
 		(exclude_from_sim no)
 		(at 202.946 117.856 0)
 		(effects
@@ -3433,7 +3433,7 @@
 		)
 		(uuid "58816cee-289d-4617-87fb-a3c5172d1c3f")
 	)
-	(text "Micro: PIC18F258 \n  - Vdd = 3.3 V\n    - Idd = 250 mA"
+	(text "Micro: PIC24HJ128GP502 \n  - Vdd = 3.3 V\n    - Idd = 250 mA"
 		(exclude_from_sim no)
 		(at 192.024 24.13 0)
 		(effects
@@ -3569,6 +3569,10 @@
 		(uuid "0e0749ba-5624-4803-82f1-d38c431d27d0")
 	)
 	(no_connect
+		(at 270.51 63.5)
+		(uuid "1bce216c-220e-4e16-b218-fc85dff0a55e")
+	)
+	(no_connect
 		(at 30.48 57.15)
 		(uuid "340e489d-92cb-49ba-9601-8c26ded7e43f")
 	)
@@ -3579,6 +3583,10 @@
 	(no_connect
 		(at 31.75 130.81)
 		(uuid "40d4b1bd-6232-4bf0-afc4-9d3dfe560778")
+	)
+	(no_connect
+		(at 270.51 66.04)
+		(uuid "519be7bb-63cd-40b4-bb47-1d0f1b75e3a6")
 	)
 	(no_connect
 		(at 30.48 54.61)
@@ -4458,6 +4466,28 @@
 		)
 		(uuid "ffa22b79-5d1b-4cf3-81f4-458156ef06cb")
 	)
+	(global_label "R_Diposit"
+		(shape output)
+		(at 270.51 53.34 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "04987cbe-134f-4017-b3ee-a0b810c5c77a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 282.2642 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "CAN_RX"
 		(shape output)
 		(at 80.01 41.91 180)
@@ -5109,6 +5139,28 @@
 		(uuid "a95e9157-e944-4188-bd64-fe605b550914")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 280.6314 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "R_BomComb"
+		(shape output)
+		(at 270.51 50.8 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "aae0271a-e6f5-4c01-9580-a2b8db76709b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 285.1064 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
