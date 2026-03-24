@@ -16,7 +16,7 @@
 		(uuid "4a5767d5-46e3-4330-8333-ac2d8f7c009c")
 	)
 	(sheet
-		(at 38.1 30.48)
+		(at 185.42 68.58)
 		(size 48.26 30.48)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -32,7 +32,7 @@
 		)
 		(uuid "73a8a135-7ac0-4af3-83b0-52460225a0ec")
 		(property "Sheetname" "Micro"
-			(at 38.1 29.7684 0)
+			(at 185.42 67.8684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41,7 +41,7 @@
 			)
 		)
 		(property "Sheetfile" "Micro.kicad_sch"
-			(at 38.1 61.5446 0)
+			(at 185.42 99.6446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -58,7 +58,7 @@
 		)
 	)
 	(sheet
-		(at 31.75 82.55)
+		(at 40.64 63.5)
 		(size 58.42 33.02)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -74,7 +74,7 @@
 		)
 		(uuid "9cc53e55-b115-43a5-9a22-06f8c68fe0c0")
 		(property "Sheetname" "Part Analogica"
-			(at 31.75 81.8384 0)
+			(at 40.64 62.7884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -83,49 +83,7 @@
 			)
 		)
 		(property "Sheetfile" "analog.kicad_sch"
-			(at 31.75 116.1546 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "Combustible_projecte"
-				(path "/c989196d-f442-462e-ad13-2ff17993bc1b"
-					(page "4")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 187.96 83.82)
-		(size 72.39 41.91)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "cd1fe3cc-4e6c-43d9-9b7b-78d928da7f48")
-		(property "Sheetname" "Potencia"
-			(at 187.96 83.1084 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "potencia.kicad_sch"
-			(at 187.96 126.3146 0)
+			(at 40.64 97.1046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
