@@ -3278,7 +3278,7 @@
 			)
 		)
 	)
-	(global_label "Sortida_RL"
+	(global_label "3v3"
 		(shape output)
 		(at 227.33 55.88 0)
 		(fields_autoplaced yes)
@@ -3290,7 +3290,7 @@
 		)
 		(uuid "6847e340-dcf7-427a-b054-3ebb0418698d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 240.3541 55.88 0)
+			(at 233.7018 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3344,7 +3344,7 @@
 			)
 		)
 	)
-	(global_label "OUTBUCK"
+	(global_label "5v"
 		(shape output)
 		(at 165.1 54.61 90)
 		(fields_autoplaced yes)
@@ -3356,7 +3356,7 @@
 		)
 		(uuid "a9f75ee0-5843-4a40-b92d-e324b229b872")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 165.1 42.8557 90)
+			(at 165.1 49.4477 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3398,7 +3398,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "006157c7-1e56-48ce-a2b0-61f09b8f98e3")
-		(property "Reference" "Rpd2"
+		(property "Reference" "Rpd?"
 			(at 191.77 123.1899 0)
 			(effects
 				(font
@@ -3450,6 +3450,12 @@
 			(uuid "672d9e82-3d9d-4ee0-89ce-dd0b08180d69")
 		)
 		(instances
+			(project "analog"
+				(path "/89b379c6-c1d5-433c-b97b-c7ef57f4db5a"
+					(reference "Rpd?")
+					(unit 1)
+				)
+			)
 			(project "Combustible_projecte"
 				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
 					(reference "Rpd2")
@@ -3467,7 +3473,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0a77cd9b-366b-42ce-8532-39b0d63aee0a")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR?"
 			(at 111.76 134.62 0)
 			(effects
 				(font
@@ -3515,6 +3521,12 @@
 			(uuid "4c986446-4afc-41fa-b6b9-d110312fbc85")
 		)
 		(instances
+			(project "analog"
+				(path "/89b379c6-c1d5-433c-b97b-c7ef57f4db5a"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "Combustible_projecte"
 				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
 					(reference "#PWR08")
@@ -3533,7 +3545,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1f1c8522-15db-4e6e-ac44-0053ef59e0a1")
-		(property "Reference" "D3"
+		(property "Reference" "D?"
 			(at 91.44 98.7424 90)
 			(effects
 				(font
@@ -3585,6 +3597,12 @@
 			(uuid "bede20ef-77be-40d2-b2e0-bd0adc845b12")
 		)
 		(instances
+			(project "analog"
+				(path "/89b379c6-c1d5-433c-b97b-c7ef57f4db5a"
+					(reference "D?")
+					(unit 1)
+				)
+			)
 			(project "Combustible_projecte"
 				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
 					(reference "D3")
@@ -3603,7 +3621,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "20d7f916-b895-495c-af56-3475489ef1fe")
-		(property "Reference" "C30"
+		(property "Reference" "C3"
 			(at 78.74 55.2449 0)
 			(effects
 				(font
@@ -3658,12 +3676,6 @@
 			(project "analog"
 				(path "/89b379c6-c1d5-433c-b97b-c7ef57f4db5a"
 					(reference "C3")
-					(unit 1)
-				)
-			)
-			(project "analog"
-				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
-					(reference "C30")
 					(unit 1)
 				)
 			)
@@ -3733,12 +3745,6 @@
 					(unit 1)
 				)
 			)
-			(project "analog"
-				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
-					(reference "#PWR0102")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -3750,7 +3756,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2aa4d608-8853-44aa-8d5e-7e58f9d5fe7d")
-		(property "Reference" "Rg2"
+		(property "Reference" "Rg?"
 			(at 194.31 112.522 90)
 			(effects
 				(font
@@ -3800,6 +3806,12 @@
 			(uuid "71d1802f-1c82-4a91-8747-f968abf4b043")
 		)
 		(instances
+			(project "analog"
+				(path "/89b379c6-c1d5-433c-b97b-c7ef57f4db5a"
+					(reference "Rg?")
+					(unit 1)
+				)
+			)
 			(project "Combustible_projecte"
 				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
 					(reference "Rg2")
@@ -3818,7 +3830,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2aae7f1b-7a67-481d-a0dc-9791bae07e05")
-		(property "Reference" "C21"
+		(property "Reference" "C1"
 			(at 223.52 59.0549 0)
 			(effects
 				(font
@@ -3876,12 +3888,6 @@
 					(unit 1)
 				)
 			)
-			(project "analog"
-				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
-					(reference "C21")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -3894,7 +3900,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2b5be664-e99a-4028-83f0-005de21e5dbb")
-		(property "Reference" "#FLG02"
+		(property "Reference" "#FLG?"
 			(at 187.96 53.975 0)
 			(effects
 				(font
@@ -3942,6 +3948,12 @@
 			(uuid "e54d235a-aed8-4c9e-bd12-2f808fade99b")
 		)
 		(instances
+			(project "analog"
+				(path "/89b379c6-c1d5-433c-b97b-c7ef57f4db5a"
+					(reference "#FLG?")
+					(unit 1)
+				)
+			)
 			(project "Combustible_projecte"
 				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
 					(reference "#FLG02")
@@ -3960,7 +3972,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2e474eab-0816-480e-8397-e7bae1f3825c")
-		(property "Reference" "#PWR0112"
+		(property "Reference" "#PWR01"
 			(at 200.66 72.39 0)
 			(effects
 				(font
@@ -4014,12 +4026,6 @@
 					(unit 1)
 				)
 			)
-			(project "analog"
-				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
-					(reference "#PWR0112")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -4032,7 +4038,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2ec0cf0d-6151-4156-9226-0c87b0e174e8")
-		(property "Reference" "C20"
+		(property "Reference" "C2"
 			(at 181.61 59.0549 0)
 			(effects
 				(font
@@ -4090,12 +4096,6 @@
 					(unit 1)
 				)
 			)
-			(project "analog"
-				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
-					(reference "C20")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -4107,7 +4107,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3a65f45a-ca39-408d-a57a-66f0df4fab5f")
-		(property "Reference" "R20"
+		(property "Reference" "R?"
 			(at 75.946 96.52 0)
 			(effects
 				(font
@@ -4159,6 +4159,12 @@
 			(uuid "3e9eb8d3-29d5-4a6c-adb6-ba2172c53e59")
 		)
 		(instances
+			(project "analog"
+				(path "/89b379c6-c1d5-433c-b97b-c7ef57f4db5a"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 			(project "Combustible_projecte"
 				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
 					(reference "R20")
@@ -4227,12 +4233,6 @@
 		(instances
 			(project "analog"
 				(path "/89b379c6-c1d5-433c-b97b-c7ef57f4db5a"
-					(reference "#PWR0101")
-					(unit 1)
-				)
-			)
-			(project "analog"
-				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
 					(reference "#PWR0101")
 					(unit 1)
 				)
@@ -4307,12 +4307,6 @@
 					(unit 1)
 				)
 			)
-			(project "analog"
-				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
-					(reference "D1")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -4325,7 +4319,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "469b9f83-ec06-47a5-ba1f-abba940c998f")
-		(property "Reference" "#FLG01"
+		(property "Reference" "#FLG?"
 			(at 54.61 47.625 0)
 			(effects
 				(font
@@ -4373,6 +4367,12 @@
 			(uuid "2b334147-71c9-4dc1-aa69-f7ac2fac2fbd")
 		)
 		(instances
+			(project "analog"
+				(path "/89b379c6-c1d5-433c-b97b-c7ef57f4db5a"
+					(reference "#FLG?")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
 					(reference "#FLG01")
@@ -4391,7 +4391,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "476e6b35-13e9-4075-9ac7-b0a3b2095bf7")
-		(property "Reference" "Q2"
+		(property "Reference" "Q?"
 			(at 210.82 115.5699 0)
 			(effects
 				(font
@@ -4449,6 +4449,12 @@
 			(uuid "b51678d1-4d6d-4a9d-a281-a28832a4f720")
 		)
 		(instances
+			(project "analog"
+				(path "/89b379c6-c1d5-433c-b97b-c7ef57f4db5a"
+					(reference "Q?")
+					(unit 1)
+				)
+			)
 			(project "Combustible_projecte"
 				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
 					(reference "Q2")
@@ -4467,7 +4473,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "54064d0a-f23c-4fc1-9684-d24412582198")
-		(property "Reference" "Q1"
+		(property "Reference" "Q?"
 			(at 105.41 115.5699 0)
 			(effects
 				(font
@@ -4525,6 +4531,12 @@
 			(uuid "c7788038-2647-4705-9d80-b02101d1aa8d")
 		)
 		(instances
+			(project "analog"
+				(path "/89b379c6-c1d5-433c-b97b-c7ef57f4db5a"
+					(reference "Q?")
+					(unit 1)
+				)
+			)
 			(project "Combustible_projecte"
 				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
 					(reference "Q1")
@@ -4543,7 +4555,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "67ef6b85-2634-41af-b9db-1245ba248c79")
-		(property "Reference" "U20"
+		(property "Reference" "U2"
 			(at 101.6 41.91 0)
 			(effects
 				(font
@@ -4627,7 +4639,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6c55aa8d-59a6-48d1-9bc5-14d79deb336b")
-		(property "Reference" "D5"
+		(property "Reference" "D?"
 			(at 180.848 106.172 90)
 			(effects
 				(font
@@ -4679,6 +4691,12 @@
 			(uuid "41f0ffcf-d65c-4b07-99eb-5955ff877233")
 		)
 		(instances
+			(project "analog"
+				(path "/89b379c6-c1d5-433c-b97b-c7ef57f4db5a"
+					(reference "D?")
+					(unit 1)
+				)
+			)
 			(project "Combustible_projecte"
 				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
 					(reference "D5")
@@ -4697,7 +4715,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "77299d55-7cdd-4655-8a4a-a55e24138a22")
-		(property "Reference" "Rpd1"
+		(property "Reference" "Rpd?"
 			(at 86.36 123.1899 0)
 			(effects
 				(font
@@ -4749,6 +4767,12 @@
 			(uuid "321bf6b3-af1e-4c41-8a7b-8ad966458e28")
 		)
 		(instances
+			(project "analog"
+				(path "/89b379c6-c1d5-433c-b97b-c7ef57f4db5a"
+					(reference "Rpd?")
+					(unit 1)
+				)
+			)
 			(project "Combustible_projecte"
 				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
 					(reference "Rpd1")
@@ -4766,7 +4790,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "780557bd-1ada-47d6-8fc6-013a6e477454")
-		(property "Reference" "D2"
+		(property "Reference" "D?"
 			(at 75.438 106.172 90)
 			(effects
 				(font
@@ -4818,6 +4842,12 @@
 			(uuid "0aab6fa6-b60a-4c4a-b6c7-65d1e573013a")
 		)
 		(instances
+			(project "analog"
+				(path "/89b379c6-c1d5-433c-b97b-c7ef57f4db5a"
+					(reference "D?")
+					(unit 1)
+				)
+			)
 			(project "Combustible_projecte"
 				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
 					(reference "D2")
@@ -4835,7 +4865,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7a69c980-c6cd-45e7-9f52-fa38304592a0")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR?"
 			(at 101.6 134.62 0)
 			(effects
 				(font
@@ -4883,6 +4913,12 @@
 			(uuid "d0b2bd09-04d5-443e-a86b-520d239b6fc9")
 		)
 		(instances
+			(project "analog"
+				(path "/89b379c6-c1d5-433c-b97b-c7ef57f4db5a"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "Combustible_projecte"
 				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
 					(reference "#PWR07")
@@ -4900,7 +4936,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7a8a70b4-f98e-4c42-884a-16f8d340a7a6")
-		(property "Reference" "R30"
+		(property "Reference" "R?"
 			(at 181.356 96.52 0)
 			(effects
 				(font
@@ -4952,6 +4988,12 @@
 			(uuid "2e37998c-58d2-4227-8c97-26a5965b017d")
 		)
 		(instances
+			(project "analog"
+				(path "/89b379c6-c1d5-433c-b97b-c7ef57f4db5a"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 			(project "Combustible_projecte"
 				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
 					(reference "R30")
@@ -5024,12 +5066,6 @@
 					(unit 1)
 				)
 			)
-			(project "analog"
-				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
-					(reference "#PWR0103")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -5042,7 +5078,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8322f454-a6cc-4fd6-ac54-a5a880b92feb")
-		(property "Reference" "D7"
+		(property "Reference" "D?"
 			(at 219.71 120.3324 90)
 			(effects
 				(font
@@ -5094,6 +5130,12 @@
 			(uuid "e889962b-cadc-49d9-9ab9-2f28fabcdf53")
 		)
 		(instances
+			(project "analog"
+				(path "/89b379c6-c1d5-433c-b97b-c7ef57f4db5a"
+					(reference "D?")
+					(unit 1)
+				)
+			)
 			(project "Combustible_projecte"
 				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
 					(reference "D7")
@@ -5111,7 +5153,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8511f20b-d9bd-43a6-8ba6-dbd11a559b55")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR?"
 			(at 207.01 134.62 0)
 			(effects
 				(font
@@ -5159,6 +5201,12 @@
 			(uuid "289aa6c8-75bb-4529-994a-efdb9144a9c0")
 		)
 		(instances
+			(project "analog"
+				(path "/89b379c6-c1d5-433c-b97b-c7ef57f4db5a"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "Combustible_projecte"
 				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
 					(reference "#PWR014")
@@ -5231,12 +5279,6 @@
 					(unit 1)
 				)
 			)
-			(project "analog"
-				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
-					(reference "#PWR0104")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -5249,7 +5291,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "956823a0-10ed-4e1b-a404-f74be63ec3b3")
-		(property "Reference" "C40"
+		(property "Reference" "C4"
 			(at 153.67 59.0549 0)
 			(effects
 				(font
@@ -5307,12 +5349,6 @@
 					(unit 1)
 				)
 			)
-			(project "analog"
-				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
-					(reference "C40")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -5324,7 +5360,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9a95e003-9bf2-459b-ab7d-66d7a3303593")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR?"
 			(at 189.23 135.89 0)
 			(effects
 				(font
@@ -5372,6 +5408,12 @@
 			(uuid "d05e7603-f771-48c2-9b3e-e398e3cea567")
 		)
 		(instances
+			(project "analog"
+				(path "/89b379c6-c1d5-433c-b97b-c7ef57f4db5a"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "Combustible_projecte"
 				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
 					(reference "#PWR013")
@@ -5389,7 +5431,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a36f0fe4-9a83-4c9c-bca3-ee439fa54e26")
-		(property "Reference" "ReleDiposit1"
+		(property "Reference" "ReleDiposit?"
 			(at 223.52 100.3299 0)
 			(effects
 				(font
@@ -5449,6 +5491,12 @@
 			(uuid "d74b87d7-551f-46bd-b910-65bf2b94b18e")
 		)
 		(instances
+			(project "analog"
+				(path "/89b379c6-c1d5-433c-b97b-c7ef57f4db5a"
+					(reference "ReleDiposit?")
+					(unit 1)
+				)
+			)
 			(project "Combustible_projecte"
 				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
 					(reference "ReleDiposit1")
@@ -5466,7 +5514,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a95672e2-e96a-4b34-a0d2-acb6a7d284de")
-		(property "Reference" "Rg1"
+		(property "Reference" "Rg?"
 			(at 88.9 112.522 90)
 			(effects
 				(font
@@ -5516,6 +5564,12 @@
 			(uuid "0be3fdfb-76a3-479b-b8a8-d5f84ba1c777")
 		)
 		(instances
+			(project "analog"
+				(path "/89b379c6-c1d5-433c-b97b-c7ef57f4db5a"
+					(reference "Rg?")
+					(unit 1)
+				)
+			)
 			(project "Combustible_projecte"
 				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
 					(reference "Rg1")
@@ -5534,7 +5588,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "adee4011-dbc6-44fd-b11b-c500fc76d078")
-		(property "Reference" "#PWR0113"
+		(property "Reference" "#PWR02"
 			(at 177.8 72.39 0)
 			(effects
 				(font
@@ -5588,12 +5642,6 @@
 					(unit 1)
 				)
 			)
-			(project "analog"
-				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
-					(reference "#PWR0113")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -5605,7 +5653,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cb6111cb-0d05-4e91-95a7-b98408828a1d")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR?"
 			(at 217.17 134.62 0)
 			(effects
 				(font
@@ -5653,6 +5701,12 @@
 			(uuid "a6ccadf8-f31f-4863-a7f0-1fd08558544a")
 		)
 		(instances
+			(project "analog"
+				(path "/89b379c6-c1d5-433c-b97b-c7ef57f4db5a"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "Combustible_projecte"
 				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
 					(reference "#PWR015")
@@ -5748,7 +5802,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d29fcbaa-708d-45db-88da-dd5158fa8836")
-		(property "Reference" "#PWR0114"
+		(property "Reference" "#PWR03"
 			(at 219.71 73.66 0)
 			(effects
 				(font
@@ -5802,12 +5856,6 @@
 					(unit 1)
 				)
 			)
-			(project "analog"
-				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
-					(reference "#PWR0114")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -5820,7 +5868,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d603ecf5-b8ad-45f4-bdd3-aa83ba5ee201")
-		(property "Reference" "J8"
+		(property "Reference" "J1"
 			(at 24.13 45.72 0)
 			(effects
 				(font
@@ -5876,12 +5924,6 @@
 					(unit 1)
 				)
 			)
-			(project "analog"
-				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
-					(reference "J8")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -5893,7 +5935,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "dcc67083-5c7b-42ad-a178-aa625c201152")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR?"
 			(at 83.82 135.89 0)
 			(effects
 				(font
@@ -5941,6 +5983,12 @@
 			(uuid "942362bf-ea86-486d-be63-77c3d0ab740e")
 		)
 		(instances
+			(project "analog"
+				(path "/89b379c6-c1d5-433c-b97b-c7ef57f4db5a"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "Combustible_projecte"
 				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
 					(reference "#PWR06")
@@ -6013,12 +6061,6 @@
 					(unit 1)
 				)
 			)
-			(project "analog"
-				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
-					(reference "#PWR0105")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -6031,7 +6073,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e166bed1-e105-47be-ba4a-9d3479a4cb9e")
-		(property "Reference" "D4"
+		(property "Reference" "D?"
 			(at 114.3 120.3324 90)
 			(effects
 				(font
@@ -6083,6 +6125,12 @@
 			(uuid "04432c91-6a40-4017-838c-886e26bb0bc3")
 		)
 		(instances
+			(project "analog"
+				(path "/89b379c6-c1d5-433c-b97b-c7ef57f4db5a"
+					(reference "D?")
+					(unit 1)
+				)
+			)
 			(project "Combustible_projecte"
 				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
 					(reference "D4")
@@ -6100,7 +6148,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e771ad77-295e-46b4-a6f1-619c1b9161cf")
-		(property "Reference" "ReleBomba1"
+		(property "Reference" "ReleBomba?"
 			(at 118.11 100.3299 0)
 			(effects
 				(font
@@ -6160,6 +6208,12 @@
 			(uuid "5234c3e1-7b28-41c1-bab7-53f576f352ce")
 		)
 		(instances
+			(project "analog"
+				(path "/89b379c6-c1d5-433c-b97b-c7ef57f4db5a"
+					(reference "ReleBomba?")
+					(unit 1)
+				)
+			)
 			(project "Combustible_projecte"
 				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
 					(reference "ReleBomba1")
@@ -6178,7 +6232,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eb6ad990-14c7-4512-a26d-f77a1eb7f2b6")
-		(property "Reference" "D6"
+		(property "Reference" "D?"
 			(at 196.85 98.7424 90)
 			(effects
 				(font
@@ -6230,6 +6284,12 @@
 			(uuid "df0823ed-b779-456d-ae0d-f81761b20e5d")
 		)
 		(instances
+			(project "analog"
+				(path "/89b379c6-c1d5-433c-b97b-c7ef57f4db5a"
+					(reference "D?")
+					(unit 1)
+				)
+			)
 			(project "Combustible_projecte"
 				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
 					(reference "D6")
@@ -6303,12 +6363,12 @@
 					(unit 1)
 				)
 			)
-			(project "analog"
-				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
-					(reference "L1")
-					(unit 1)
-				)
-			)
 		)
 	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
 )
