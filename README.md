@@ -9,11 +9,12 @@ View this project on [CADLAB.io](https://cadlab.io/project/30189).
 
 ## Objectiu
 
->PCB per ...
+>PCB per poder controlar el combustible en un cotxe, desde el nivell de combustible, les bombes de combustible, el diposit o controlar el sensor dels pneumàtics. 
 
 
 ## Diagrama de blocs
 
+![Imatge Diagrama De Blocs](/DiagramaDeBlocs.png)
 
 ### Descripció/funcionalitat de cada bloc
 
