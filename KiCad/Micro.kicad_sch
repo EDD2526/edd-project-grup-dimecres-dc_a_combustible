@@ -4,6 +4,10 @@
 	(generator_version "9.0")
 	(uuid "76eb2563-2429-4e39-bcea-6a503034af3e")
 	(paper "A4")
+	(title_block
+		(title "Microcontroller")
+		(comment 1 " ")
+	)
 	(lib_symbols
 		(symbol "A_David_Puges_sym:PIC24HJ128GP502"
 			(exclude_from_sim no)
@@ -3525,6 +3529,16 @@
 			)
 		)
 		(uuid "38df3d03-bfb9-455f-a431-16338614a15b")
+	)
+	(text "Microcontrolador mes control del bus CAN, I2C, ICSP i ADC."
+		(exclude_from_sim no)
+		(at 207.518 173.736 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3b6f5f1f-a1c0-43cc-905d-c832a1dacee0")
 	)
 	(text "MCP4725\n - Vdd = 3.3 V\n        - Idd = 400 micro A"
 		(exclude_from_sim no)

@@ -2027,6 +2027,16 @@
 		)
 		(uuid "5df05bec-0ef5-4048-96f9-bfee098562a6")
 	)
+	(text "Regulador Buck, mes LDO i Relès per a la bomba i el diposit."
+		(exclude_from_sim no)
+		(at 209.296 168.402 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "90196758-d89d-484a-a130-ff82198a6052")
+	)
 	(text "Relè Diposit"
 		(exclude_from_sim no)
 		(at 198.374 86.614 0)
