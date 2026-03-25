@@ -16,7 +16,7 @@
 		(uuid "4a5767d5-46e3-4330-8333-ac2d8f7c009c")
 	)
 	(sheet
-		(at 185.42 68.58)
+		(at 163.83 62.23)
 		(size 48.26 30.48)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -32,7 +32,7 @@
 		)
 		(uuid "73a8a135-7ac0-4af3-83b0-52460225a0ec")
 		(property "Sheetname" "Micro"
-			(at 185.42 67.8684 0)
+			(at 163.83 61.5184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41,7 +41,7 @@
 			)
 		)
 		(property "Sheetfile" "Micro.kicad_sch"
-			(at 185.42 99.6446 0)
+			(at 163.83 93.2946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -73,7 +73,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "9cc53e55-b115-43a5-9a22-06f8c68fe0c0")
-		(property "Sheetname" "Part Analogica"
+		(property "Sheetname" "Supply&Reles"
 			(at 40.64 62.7884 0)
 			(effects
 				(font
