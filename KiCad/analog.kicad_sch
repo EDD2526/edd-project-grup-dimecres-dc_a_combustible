@@ -3396,7 +3396,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "20d7f916-b895-495c-af56-3475489ef1fe")
-		(property "Reference" "C?"
+		(property "Reference" "C15"
 			(at 78.74 55.2449 0)
 			(effects
 				(font
@@ -3414,7 +3414,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:CP_Elec_10x10"
 			(at 74.93 57.15 0)
 			(effects
 				(font
@@ -3456,7 +3456,7 @@
 			)
 			(project "Combustible_projecte"
 				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
-					(reference "C?")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -3472,7 +3472,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2748f7ef-2a5f-4724-b6c6-7304944e8100")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0116"
 			(at 149.86 72.39 0)
 			(effects
 				(font
@@ -3528,7 +3528,7 @@
 			)
 			(project "Combustible_projecte"
 				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
-					(reference "#PWR?")
+					(reference "#PWR0116")
 					(unit 1)
 				)
 			)
@@ -3617,7 +3617,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2aae7f1b-7a67-481d-a0dc-9791bae07e05")
-		(property "Reference" "C?"
+		(property "Reference" "C18"
 			(at 223.52 59.0549 0)
 			(effects
 				(font
@@ -3635,7 +3635,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3216-12_Kemet-S"
 			(at 219.71 60.96 0)
 			(effects
 				(font
@@ -3677,7 +3677,7 @@
 			)
 			(project "Combustible_projecte"
 				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
-					(reference "C?")
+					(reference "C18")
 					(unit 1)
 				)
 			)
@@ -3765,7 +3765,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2e474eab-0816-480e-8397-e7bae1f3825c")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0114"
 			(at 200.66 72.39 0)
 			(effects
 				(font
@@ -3821,7 +3821,7 @@
 			)
 			(project "Combustible_projecte"
 				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
-					(reference "#PWR?")
+					(reference "#PWR0114")
 					(unit 1)
 				)
 			)
@@ -3837,7 +3837,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2ec0cf0d-6151-4156-9226-0c87b0e174e8")
-		(property "Reference" "C?"
+		(property "Reference" "C17"
 			(at 181.61 59.0549 0)
 			(effects
 				(font
@@ -3855,7 +3855,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T"
 			(at 177.8 60.96 0)
 			(effects
 				(font
@@ -3897,7 +3897,7 @@
 			)
 			(project "Combustible_projecte"
 				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
-					(reference "C?")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -3913,7 +3913,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3d0a7515-8161-442d-a3b1-4c3980e3b04a")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0117"
 			(at 124.46 71.12 0)
 			(effects
 				(font
@@ -3969,7 +3969,7 @@
 			)
 			(project "Combustible_projecte"
 				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
-					(reference "#PWR?")
+					(reference "#PWR0117")
 					(unit 1)
 				)
 			)
@@ -4052,7 +4052,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4484afca-79bd-4a64-9fe5-aaf534a30ea2")
-		(property "Reference" "D?"
+		(property "Reference" "D2"
 			(at 127 58.1024 90)
 			(effects
 				(font
@@ -4112,7 +4112,7 @@
 			)
 			(project "Combustible_projecte"
 				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
-					(reference "D?")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -4381,7 +4381,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 147.32 115.57 0)
 			(effects
 				(font
@@ -4665,7 +4665,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "81788929-0524-429a-8dd2-3efa3311412f")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0111"
 			(at 74.93 68.58 0)
 			(effects
 				(font
@@ -4721,7 +4721,7 @@
 			)
 			(project "Combustible_projecte"
 				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
-					(reference "#PWR?")
+					(reference "#PWR0111")
 					(unit 1)
 				)
 			)
@@ -4884,7 +4884,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8bc8f53e-a09e-45f5-a041-70a8fb22a363")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0110"
 			(at 86.36 68.58 0)
 			(effects
 				(font
@@ -4940,7 +4940,7 @@
 			)
 			(project "Combustible_projecte"
 				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
-					(reference "#PWR?")
+					(reference "#PWR0110")
 					(unit 1)
 				)
 			)
@@ -5023,7 +5023,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "956823a0-10ed-4e1b-a404-f74be63ec3b3")
-		(property "Reference" "C?"
+		(property "Reference" "C16"
 			(at 153.67 59.0549 0)
 			(effects
 				(font
@@ -5041,7 +5041,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:CP_Elec_10x10"
 			(at 149.86 60.96 0)
 			(effects
 				(font
@@ -5083,7 +5083,7 @@
 			)
 			(project "Combustible_projecte"
 				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
-					(reference "C?")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -5326,7 +5326,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "adee4011-dbc6-44fd-b11b-c500fc76d078")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0113"
 			(at 177.8 72.39 0)
 			(effects
 				(font
@@ -5382,7 +5382,7 @@
 			)
 			(project "Combustible_projecte"
 				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
-					(reference "#PWR?")
+					(reference "#PWR0113")
 					(unit 1)
 				)
 			)
@@ -5415,7 +5415,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 252.73 114.3 0)
 			(effects
 				(font
@@ -5615,7 +5615,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d29fcbaa-708d-45db-88da-dd5158fa8836")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0115"
 			(at 219.71 73.66 0)
 			(effects
 				(font
@@ -5671,7 +5671,7 @@
 			)
 			(project "Combustible_projecte"
 				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
-					(reference "#PWR?")
+					(reference "#PWR0115")
 					(unit 1)
 				)
 			)
@@ -5687,7 +5687,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d603ecf5-b8ad-45f4-bdd3-aa83ba5ee201")
-		(property "Reference" "J?"
+		(property "Reference" "J6"
 			(at 24.13 45.72 0)
 			(effects
 				(font
@@ -5703,7 +5703,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 24.13 54.61 0)
 			(effects
 				(font
@@ -5745,7 +5745,7 @@
 			)
 			(project "Combustible_projecte"
 				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
-					(reference "J?")
+					(reference "J6")
 					(unit 1)
 				)
 			)
@@ -5832,7 +5832,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dcc9f7a7-212c-4113-b762-1f44ca9d9626")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0112"
 			(at 31.75 63.5 0)
 			(effects
 				(font
@@ -5888,7 +5888,7 @@
 			)
 			(project "Combustible_projecte"
 				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
-					(reference "#PWR?")
+					(reference "#PWR0112")
 					(unit 1)
 				)
 			)
@@ -6138,7 +6138,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ef417dc7-52a4-4ccf-a0de-9bbc1781a9a3")
-		(property "Reference" "L?"
+		(property "Reference" "L1"
 			(at 138.43 56.642 90)
 			(effects
 				(font
@@ -6154,7 +6154,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_1206_3216Metric"
 			(at 138.43 54.61 0)
 			(effects
 				(font
@@ -6196,7 +6196,7 @@
 			)
 			(project "Combustible_projecte"
 				(path "/c989196d-f442-462e-ad13-2ff17993bc1b/9cc53e55-b115-43a5-9a22-06f8c68fe0c0"
-					(reference "L?")
+					(reference "L1")
 					(unit 1)
 				)
 			)
