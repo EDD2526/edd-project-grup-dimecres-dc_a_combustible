@@ -5261,7 +5261,7 @@
 			)
 		)
 	)
-	(global_label "CAN_L_-"
+	(global_label "USB_L_N"
 		(shape bidirectional)
 		(at 30.48 45.72 0)
 		(fields_autoplaced yes)
@@ -5273,7 +5273,7 @@
 		)
 		(uuid "54437d26-8987-416e-903e-94009e628c45")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 42.8013 45.72 0)
+			(at 42.6803 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5371,7 +5371,7 @@
 			)
 		)
 	)
-	(global_label "CAN_H_+"
+	(global_label "USB_H_P"
 		(shape bidirectional)
 		(at 30.48 48.26 0)
 		(fields_autoplaced yes)
@@ -5383,7 +5383,7 @@
 		)
 		(uuid "660a752b-fb1a-4beb-a83f-527c39d5b2cf")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 43.1037 48.26 0)
+			(at 42.9222 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5437,7 +5437,7 @@
 			)
 		)
 	)
-	(global_label "CAN_L_-"
+	(global_label "USB_L_N"
 		(shape bidirectional)
 		(at 68.834 40.894 180)
 		(fields_autoplaced yes)
@@ -5449,7 +5449,7 @@
 		)
 		(uuid "6f2557cb-1741-47b6-b2b3-7b94428011e4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 56.5127 40.894 0)
+			(at 56.6337 40.894 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5547,7 +5547,7 @@
 			)
 		)
 	)
-	(global_label "CAN_H_+"
+	(global_label "USB_H_P"
 		(shape bidirectional)
 		(at 68.834 57.404 180)
 		(fields_autoplaced yes)
@@ -5559,7 +5559,7 @@
 		)
 		(uuid "86f6b02b-f0cc-4ca8-982c-6ec3cdfef5b2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 56.2103 57.404 0)
+			(at 56.3918 57.404 0)
 			(effects
 				(font
 					(size 1.27 1.27)
