@@ -31,7 +31,7 @@ L'objectiu del projecte és crear una pcb capaç de controlar el mecanisme de ta
 ## Components
 
 | Descripci&#243; | Ref | Package |Datasheet | Prove&#239;dor | Unitats |
-| --- | --- | --- | --- | ---| --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | Microcontrolador | PIC24HJ128GP502 | SOIC-28 |[Datasheet](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/70293G.pdf) | [Mouser]| 1x |
 | XTAL-Ressonador | X49SM8MSD2SC | SMD |[Datasheet](https://www.lcsc.com/datasheet/C326536.pdf?spm=wm.sxq.inf.ggs___wm.ssy.bg.1.xh&lcsc_vid=QgJYBQUFQwQLBQFXFFAPUVFUTlMLX1dREgBeXgEFFlAxVlNRQFVfX1RVQVBdUDsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D) | [LCSC] | 1x |
 | Regulador de tensió        | LM1117            | SOT-223 | [Enllaç](https://www.ti.com/lit/ds/symlink/lm1117.pdf) | | Mouser | 1 |
