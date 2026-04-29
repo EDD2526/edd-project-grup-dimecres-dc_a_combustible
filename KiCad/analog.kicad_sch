@@ -2096,7 +2096,7 @@
 		(uuid "68e14846-c2fa-4607-b292-7b4b56f044e4")
 	)
 	(junction
-		(at 33.02 49.53)
+		(at 49.53 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "792839f1-0f27-4cd1-8a5c-e272eb341587")
@@ -2189,7 +2189,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 49.53) (xy 54.61 49.53)
+			(xy 49.53 49.53) (xy 54.61 49.53)
 		)
 		(stroke
 			(width 0)
@@ -2259,7 +2259,7 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 54.61) (xy 31.75 57.15)
+			(xy 48.26 54.61) (xy 48.26 57.15)
 		)
 		(stroke
 			(width 0)
@@ -2469,7 +2469,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 49.53) (xy 33.02 52.07)
+			(xy 49.53 49.53) (xy 49.53 52.07)
 		)
 		(stroke
 			(width 0)
@@ -2499,7 +2499,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 48.26) (xy 31.75 48.26)
+			(xy 49.53 48.26) (xy 48.26 48.26)
 		)
 		(stroke
 			(width 0)
@@ -2779,7 +2779,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 52.07) (xy 29.21 52.07)
+			(xy 49.53 52.07) (xy 45.72 52.07)
 		)
 		(stroke
 			(width 0)
@@ -2829,7 +2829,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 54.61) (xy 31.75 54.61)
+			(xy 45.72 54.61) (xy 48.26 54.61)
 		)
 		(stroke
 			(width 0)
@@ -2939,7 +2939,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 48.26) (xy 33.02 49.53)
+			(xy 49.53 48.26) (xy 49.53 49.53)
 		)
 		(stroke
 			(width 0)
@@ -3077,7 +3077,7 @@
 	)
 	(global_label "VBAT"
 		(shape output)
-		(at 31.75 48.26 90)
+		(at 48.26 48.26 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3087,7 +3087,7 @@
 		)
 		(uuid "82e618c4-3b0d-4458-8fbf-1480c736b8d4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 31.75 40.86 90)
+			(at 48.26 40.86 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5021,7 +5021,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "956823a0-10ed-4e1b-a404-f74be63ec3b3")
 		(property "Reference" "C16"
 			(at 153.67 59.0549 0)
@@ -5679,7 +5678,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 24.13 54.61 180)
+		(at 40.64 54.61 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5688,7 +5687,7 @@
 		(fields_autoplaced yes)
 		(uuid "d603ecf5-b8ad-45f4-bdd3-aa83ba5ee201")
 		(property "Reference" "J6"
-			(at 24.13 45.72 0)
+			(at 40.64 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5696,7 +5695,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02"
-			(at 24.13 48.26 0)
+			(at 40.64 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5704,7 +5703,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_TE-Connectivity:TerminalBlock_TE_282834-2_1x02_P2.54mm_Horizontal"
-			(at 24.13 54.61 0)
+			(at 40.64 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5713,7 +5712,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 24.13 54.61 0)
+			(at 40.64 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5722,7 +5721,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 24.13 54.61 0)
+			(at 40.64 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5824,7 +5823,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 31.75 57.15 0)
+		(at 48.26 57.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5833,7 +5832,7 @@
 		(fields_autoplaced yes)
 		(uuid "dcc9f7a7-212c-4113-b762-1f44ca9d9626")
 		(property "Reference" "#PWR0112"
-			(at 31.75 63.5 0)
+			(at 48.26 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5842,7 +5841,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 31.75 62.23 0)
+			(at 48.26 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5850,7 +5849,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 31.75 57.15 0)
+			(at 48.26 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5859,7 +5858,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 31.75 57.15 0)
+			(at 48.26 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5868,7 +5867,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 31.75 57.15 0)
+			(at 48.26 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
