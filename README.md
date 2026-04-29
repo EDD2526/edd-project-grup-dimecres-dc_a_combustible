@@ -32,9 +32,9 @@ L'objectiu del projecte és crear una pcb capaç de controlar el mecanisme de ta
 
 | Descripci&#243; | Ref | Package |Datasheet | Prove&#239;dor | Unitats |
 | --- | --- | --- | --- | --- | --- |
-| Microcontrolador | PIC24HJ128GP502 | SOIC-28 |[Datasheet](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/70293G.pdf) | [Mouser]| 1x |
+| Microcontrolador | PIC24HJ128GP502 | SOIC-28 |[Datasheet](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/70293G.pdf) | Mouser| 1x |
 | XTAL-Ressonador | X49SM8MSD2SC | SMD |[Datasheet](https://www.lcsc.com/datasheet/C326536.pdf?spm=wm.sxq.inf.ggs___wm.ssy.bg.1.xh&lcsc_vid=QgJYBQUFQwQLBQFXFFAPUVFUTlMLX1dREgBeXgEFFlAxVlNRQFVfX1RVQVBdUDsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D) | [LCSC] | 1x |
-| Regulador de tensió        | LM1117            | SOT-223 | [Enllaç](https://www.ti.com/lit/ds/symlink/lm1117.pdf) | | Mouser | 1 |
+| Regulador de tensió        | LM1117            | SOT-223 | [Enllaç](https://www.ti.com/lit/ds/symlink/lm1117.pdf) | Mouser | 1 |
 | Regulador de commutació    | LM2596            | TO-220 / TO-263 | [Enllaç](https://www.ti.com/lit/ds/symlink/lm2596.pdf) |Mouser | 1 |
 | Transceptor CAN            | MCP2557           | SOIC-8  | [Enllaç](https://www.digikey.es/es/products/detail/microchip-technology/MCP2557FD-H-SN/6009299?gclsrc=aw.ds&&utm_adgroup=&utm_source=google&utm_medium=cpc&utm_campaign=PMax_Product_All%20Products&utm_term=&productid=6009299&utm_content=&utm_id=go_cmp-20199915072_adg-_ad-__dev-c_ext-_prd-6009299_sig-Cj0KCQjw_JzABhC2ARIsAPe3ynpUKI6YB1CwYhuxLEUHioMMJoSxuswcCzv73NbuUfjEhpO7h3KmzM0aAg-ZEALw_wcB&gad_source=1&gbraid=0AAAAADrbLli4DwHuL2SABBDwoZRf1ZzGQ&gclid=Cj0KCQjw_JzABhC2ARIsAPe3ynpUKI6YB1CwYhuxLEUHioMMJoSxuswcCzv73NbuUfjEhpO7h3KmzM0aAg-ZEALw_wcB&gclsrc=aw.ds) | DigiKey | 1 |
 | Convertidor DAC            | MCP4725           | SOT-23-6 | [Enllaç](https://ww1.microchip.com/downloads/en/devicedoc/22039d.pdf) | DigiKey / Mouser | 1 |
