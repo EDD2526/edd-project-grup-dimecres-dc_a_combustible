@@ -6,6 +6,7 @@ View this project on [CADLAB.io](https://cadlab.io/project/30189).
 >**Versió: ** v.1.0.0 11/03/2026
 
 ----------
+
 ![PCB 3D Render](Combustible_projecte.jpg)
 *3D render of the Fuel Management Electronic Module designed in KiCad 9. 
 The board integrates a PIC24HJ128GP502 microcontroller, CAN bus (MCP2562), 
