@@ -6,7 +6,13 @@ View this project on [CADLAB.io](https://cadlab.io/project/30189).
 >**Versió: ** v.1.0.0 11/03/2026
 
 ----------
+![PCB 3D Render](Combustible_projecte.jpg)
+*3D render of the Fuel Management Electronic Module designed in KiCad 9. 
+The board integrates a PIC24HJ128GP502 microcontroller, CAN bus (MCP2562), 
+RS232 (MAX3232), 12-bit I2C DAC (MCP4725), two 12V/6A power relays and a 
+complete power management stage (buck LM2596 + LDO LM1117).*
 
+----------
 ## Objectiu Descripció breu de l'objectiu del projecte.
 
 L'objectiu del projecte és crear una pcb capaç de controlar el mecanisme de tancament de dipòsit del combustible d'un cotxe, controli el sensor de pressió de pneumàtics i el sensor digital de nivell de combustible i el funcionament de la bomba de combustible.
